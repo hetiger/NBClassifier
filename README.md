@@ -3,7 +3,7 @@ Naive Bayes Classifier for multi-class (truthful/deceptive and positive/negative
 - Performed sentiment analysis of hotel reviews using word tokens as features for classification.
 - Performed add-one smoothing on training data and ignored unknown tokens in the test data.
 
-Core Technology: Python & JSON.
+Core Technology: Python, JSON.
 
 # Data
 Deceptive Opinion Spam Corpus v1.4 available at http://myleott.com/op_spam/ 
